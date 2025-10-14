@@ -1,6 +1,6 @@
 # Beberapa kebingungan di RL
  * 2  
-  Jenis kelamin yang harus ditampilkan:
+  Jenis kelamin yang harus ditampilkan jenis kelaminnya lebih 2:
  ![alt text](image.png)
  tapi kenapa data di DB nggak ada column tersebut atau kolom lain yang bisa pakai buat filter atau apalah:
  ![alt text](image-2.png)
