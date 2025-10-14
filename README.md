@@ -16,7 +16,7 @@
     ![alt text](image-8.png)
     tapi kurang tau bujur kadanya.
     2. Lawan, ada kolom yang ke-triple tapi recordnya beda:
-    ![alt text](image-9.png)
+    ![alt text](image-9.png)  
     ulun curiga ini typo dan seharusnya buat nama kolom yg lain.
 
  * 3-4  
@@ -36,16 +36,3 @@
     ![alt text](image-5.png)
     yang 2 ini yang mulahi bingung:
     ![alt text](image-6.png)
-
-  
-  
- * 4-a
- * 4-asebabluar
- * 4-b
- * 4-bsebabluar
-> yang semua 4-* ini ulun bingung semua, penamaan kolom di dbnya kurang jelas.
-
- * 5-3
- * 5-4
-    pemanggilan stored procedurenya empty, kada muncul kolomnya, bingung ulun
- ![alt text](image-7.png)
